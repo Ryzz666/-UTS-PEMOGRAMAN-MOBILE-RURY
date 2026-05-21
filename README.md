@@ -1,8 +1,13 @@
+<img width="1178" height="2498" alt="Screenshot_20260521_153714" src="https://github.com/user-attachments/assets/81c5691d-f8ae-409c-b8a3-715b848d465d" />
 # Tante Sunda - Tradisi Rasa Parahyangan
 
 Tante Sunda adalah aplikasi katalog kuliner khas Sunda yang menyajikan keaslian cita rasa bumi Parahyangan dengan sentuhan modern. Aplikasi ini dirancang untuk memberikan pengalaman visual yang hangat dan alami, membawa suasana pedesaan yang tenang dan asri ke dalam genggaman Anda.
 
 ## ✨ Fitur Utama
+<img width="1178" height="2498" alt="Screenshot_20260521_154057" src="https://github.com/user-attachments/assets/ff909c99-a24d-4aa7-a865-7ad7a8608eba" />
+<img width="1178" height="2498" alt="Screenshot_20260521_153813" src="https://github.com/user-attachments/assets/f9be7f89-9bf4-4973-8bd4-db574129ff44" />
+<img width="1178" height="2498" alt="Screenshot_20260521_153751" src="https://github.com/user-attachments/assets/81915ed5-6d01-484e-b33a-06c076071390" />
+<img width="1178" height="2498" alt="Screenshot_20260521_153734" src="https://github.com/user-attachments/assets/abb96b8e-cf16-4767-8e57-7431d2a3c5c7" />
 
 *   **Authentic Sundanese Branding**: Menggunakan skema warna yang terinspirasi dari alam (hijau daun, bambu) dan logo `tante_sunda.png` yang khas.
 *   **Warm Home Screen**: Menampilkan hidangan favorit hari ini (Nasi Timbel, Ayam Bakar), menu andalan, dan akses cepat navigasi.
